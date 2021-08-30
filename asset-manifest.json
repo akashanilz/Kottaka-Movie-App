@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/Kottaka-Movie-App/static/css/main.546dc5a7.chunk.css",
-    "main.js": "/github.io/Kottaka-Movie-App/static/js/main.f63534dc.chunk.js",
-    "main.js.map": "/github.io/Kottaka-Movie-App/static/js/main.f63534dc.chunk.js.map",
-    "runtime-main.js": "/github.io/Kottaka-Movie-App/static/js/runtime-main.92db9ebf.js",
-    "runtime-main.js.map": "/github.io/Kottaka-Movie-App/static/js/runtime-main.92db9ebf.js.map",
-    "static/css/2.0975cee1.chunk.css": "/github.io/Kottaka-Movie-App/static/css/2.0975cee1.chunk.css",
-    "static/js/2.c2e339bf.chunk.js": "/github.io/Kottaka-Movie-App/static/js/2.c2e339bf.chunk.js",
-    "static/js/2.c2e339bf.chunk.js.map": "/github.io/Kottaka-Movie-App/static/js/2.c2e339bf.chunk.js.map",
-    "static/js/3.1b3a330b.chunk.js": "/github.io/Kottaka-Movie-App/static/js/3.1b3a330b.chunk.js",
-    "static/js/3.1b3a330b.chunk.js.map": "/github.io/Kottaka-Movie-App/static/js/3.1b3a330b.chunk.js.map",
-    "index.html": "/github.io/Kottaka-Movie-App/index.html",
-    "static/css/2.0975cee1.chunk.css.map": "/github.io/Kottaka-Movie-App/static/css/2.0975cee1.chunk.css.map",
-    "static/css/main.546dc5a7.chunk.css.map": "/github.io/Kottaka-Movie-App/static/css/main.546dc5a7.chunk.css.map",
-    "static/js/2.c2e339bf.chunk.js.LICENSE.txt": "/github.io/Kottaka-Movie-App/static/js/2.c2e339bf.chunk.js.LICENSE.txt"
+    "main.css": "/Kottaka-Movie-App/static/css/main.546dc5a7.chunk.css",
+    "main.js": "/Kottaka-Movie-App/static/js/main.f63534dc.chunk.js",
+    "main.js.map": "/Kottaka-Movie-App/static/js/main.f63534dc.chunk.js.map",
+    "runtime-main.js": "/Kottaka-Movie-App/static/js/runtime-main.1eb36f2d.js",
+    "runtime-main.js.map": "/Kottaka-Movie-App/static/js/runtime-main.1eb36f2d.js.map",
+    "static/css/2.0975cee1.chunk.css": "/Kottaka-Movie-App/static/css/2.0975cee1.chunk.css",
+    "static/js/2.c7147874.chunk.js": "/Kottaka-Movie-App/static/js/2.c7147874.chunk.js",
+    "static/js/2.c7147874.chunk.js.map": "/Kottaka-Movie-App/static/js/2.c7147874.chunk.js.map",
+    "static/js/3.1b3a330b.chunk.js": "/Kottaka-Movie-App/static/js/3.1b3a330b.chunk.js",
+    "static/js/3.1b3a330b.chunk.js.map": "/Kottaka-Movie-App/static/js/3.1b3a330b.chunk.js.map",
+    "index.html": "/Kottaka-Movie-App/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/Kottaka-Movie-App/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.546dc5a7.chunk.css.map": "/Kottaka-Movie-App/static/css/main.546dc5a7.chunk.css.map",
+    "static/js/2.c7147874.chunk.js.LICENSE.txt": "/Kottaka-Movie-App/static/js/2.c7147874.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.92db9ebf.js",
+    "static/js/runtime-main.1eb36f2d.js",
     "static/css/2.0975cee1.chunk.css",
-    "static/js/2.c2e339bf.chunk.js",
+    "static/js/2.c7147874.chunk.js",
     "static/css/main.546dc5a7.chunk.css",
     "static/js/main.f63534dc.chunk.js"
   ]
